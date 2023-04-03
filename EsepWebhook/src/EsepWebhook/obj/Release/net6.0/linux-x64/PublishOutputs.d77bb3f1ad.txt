@@ -1,0 +1,7 @@
+/home/benji/Desktop/code/cis4930/esep-webhooks/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/EsepWebhook.deps.json
+/home/benji/Desktop/code/cis4930/esep-webhooks/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/EsepWebhook.runtimeconfig.json
+/home/benji/Desktop/code/cis4930/esep-webhooks/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/EsepWebhook.pdb
+/home/benji/Desktop/code/cis4930/esep-webhooks/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/Amazon.Lambda.Core.dll
+/home/benji/Desktop/code/cis4930/esep-webhooks/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
+/home/benji/Desktop/code/cis4930/esep-webhooks/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/Newtonsoft.Json.dll
+/home/benji/Desktop/code/cis4930/esep-webhooks/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/EsepWebhook.dll
